@@ -12,7 +12,7 @@ import {
 export function Dashboard() {
     return (
         <Table>
-            <TableCaption>Bir TGS Canlı Dashboard Örneği. </TableCaption>
+            <TableCaption>Bir Canlı Dashboard Örneği. </TableCaption>
             <TableHeader>
                 <TableRow>
                     <TableHead className="w-[100px]">Invoice</TableHead>
